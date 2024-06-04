@@ -2,7 +2,6 @@
 - 👀 I’m interested in XR technologies, gaming and automotive
 - 🌱 I’m currently learning XR Development and WebXR
 - 💞️ I’m looking to collaborate on XR Projects
-- ⚡ Fun fact: ...
 
 <!---
 escantamburloBit/escantamburloBit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
